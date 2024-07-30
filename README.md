@@ -1,5 +1,5 @@
 # Optimization-algorithm-for-optimal-PMU-placement
-This repository contains the MATLAB files of optimization algorithms for optimal PMU placement.
+This repository contains the MATLAB files of optimization algorithms for optimal PMU placement. 
 The original files were obtained from this repository: https://github.com/xupei0610/OPP
 
 The files included are:
